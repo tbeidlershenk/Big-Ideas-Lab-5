@@ -1,7 +1,7 @@
 # Big-Ideas-Lab-5
 Repository for Lab 5
 
-Tobais A. Aaron Beidler-Shenk & Marko Melishchuk
+Tobias Beidler-Shenk & Marko Melishchuk
 
 Hi grader!
 
