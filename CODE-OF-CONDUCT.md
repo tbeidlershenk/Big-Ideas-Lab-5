@@ -1,5 +1,3 @@
-## We chose this code of conduct because it accurately represents our values about teamwork and working together on developing software.
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

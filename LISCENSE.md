@@ -1,5 +1,3 @@
-## We chose this liscense because it benefits the public and allows for as much creativity as possible with this software. In dedicating all copyright interest to the public domain, the software and its development can be mainly for the purpose of learning as developers.
-
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
